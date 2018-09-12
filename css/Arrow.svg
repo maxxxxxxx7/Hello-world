@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="30px" viewBox="0 0 37 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M436.430935,49.2364338 L445.774291,58.8372051 L442.696297,62 L429.637473,48.5813975 C428.787509,47.7080158 428.787509,46.2919842 429.637473,45.4186025 L442.696297,32 L445.774291,35.1627949 L436.430935,44.7635662 L466,44.7635662 L466,49.2364338 L436.430935,49.2364338 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary-CTA_Desktop" transform="translate(-429.000000, -32.000000)">
+            <g id="Primary-CTA">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Arrow" fill="#FFFFFF" fill-rule="nonzero" transform="translate(447.500000, 47.000000) scale(-1, 1) translate(-447.500000, -47.000000) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
